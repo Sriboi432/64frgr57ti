@@ -1,0 +1,35 @@
+p {
+   color:aquamarine;
+   text-align: center;
+}
+
+body {
+   background-color: darkolivegreen;
+   font-family: Helvetica, Arial, sans-serif;
+   font-weight: bold;
+   margin: 0;
+   padding: 20px;
+}
+
+#red {
+   color: red;
+   text-align: center;
+}
+
+.right {
+   text-align: right;
+   color: maroon;
+}
+
+* {
+   color: yellow;
+}
+
+h2, h3, h4 {
+   color: mediumspringgreen;
+   text-align: center;
+}
+
+#textbg, h1 {
+   color:black;
+}
